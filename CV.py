@@ -1,0 +1,8 @@
+print("Juravet Alexandra")
+print("Eleva in clasa a 10a ''D'' I.P.L.T.''M. Eminescu'' ")
+print("Data nasterii:20.01.2004")
+print("Nascuta in Republica Moldova, Municipiul Balti")
+print("Nationalitate:ucraineanca")
+print("Domiciliu:Municipiul Balti, str. Suceava 1a ")
+print("Numarul de telefon:079571900")
+print("Adresa de email:sashule10@gmail.com")
